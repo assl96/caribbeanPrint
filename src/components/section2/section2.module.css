@@ -1,0 +1,8 @@
+.content {
+    padding: 0;
+    background-image: url("../../media/FONDO\ 2\ .png"); /* Ruta relativa a la carpeta public */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

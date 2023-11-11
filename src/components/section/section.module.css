@@ -1,0 +1,17 @@
+.content {
+    /* margin: -22px 0; */
+    padding: 0;
+    background-image: url("../../media/fONDO\ 1\ .png"); /* Ruta relativa a la carpeta public */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Establece la altura del fondo al 100% de la altura de la ventana */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    z-index: -999; */
+}
+

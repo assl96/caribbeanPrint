@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kay+Pho+Du:wght@400;500;600;700&display=swap');
 .header {
   /* background-color: #333;
     color: white;
@@ -7,13 +8,17 @@
     width: 100%;
     top: 0;
     height: 100px; */
-  background-color: #333;
+  background-color: #d8117e;
   color: white;
   padding: 10px;
   text-align: center;
-
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Kay Pho Du', serif;
 }
-a{
-    color: white;
-    row-gap: 5px
+a {
+  color: white;
+  text-decoration: none;
 }
